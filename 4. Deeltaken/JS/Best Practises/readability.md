@@ -18,6 +18,7 @@ difficulty: 2
 ### Basisprincipes
 
 1. Consistente Indentatie
+
 Gebruik consistente inspringing om de structuur van je code weer te geven. Standaarden zijn meestal 2 of 4 spaties per niveau, afhankelijk van de voorkeuren of de richtlijnen van het project.
 
 ```javascript
@@ -31,6 +32,7 @@ if (condition) {
 ```
 
 2. Zinvolle Namen
+
 Gebruik beschrijvende namen voor variabelen, functies, en klassen. Vermijd afkortingen en gebruik volledige woorden.
 
 ```javascript
@@ -42,6 +44,7 @@ const aantalProducten = 42;
 ```
 
 3. Duidelijke Structuur
+
 Structureer je code logisch en hou aan functionele groeperingen. Gebruik functies om complexe taken op te splitsen in kleinere, begrijpelijke delen.
 
 ```javascript
@@ -55,6 +58,7 @@ function berekenPrijs(producten) {
 ```
 
 4. Consistentie in Stijl
+
 Gebruik consistente stijlregels, zoals de positie van accolades, spaties rondom operators, en puntkomma's. Dit verhoogt de leesbaarheid en voorkomt verwarring.
 
 ```javascript
@@ -69,6 +73,7 @@ if (condition) {
 ```
 
 5. Vermijd Magic Numbers
+
 Gebruik geen harde getallen in je code zonder uitleg. Definieer ze als constante met een beschrijvende naam.
 
 ```javascript

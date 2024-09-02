@@ -1,6 +1,7 @@
 ---
-title: Cognitief model SOLID
+title: SOLID-niveau-2
+taxonomie: None
 tags:
-- Cognitief model SOLID
-- HBO-i/niveau-2
+
 ---
+

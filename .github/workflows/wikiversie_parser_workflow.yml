@@ -1,0 +1,40 @@
+name: Run the wikiversie parser and create PR
+
+on:
+  push:
+    branches:
+      - content
+
+jobs:
+  run-parser-and-create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+
+      - name: Run wikiversie_parser.py script
+        run: |
+          # python .github/wikiversie_parser.py --src ./content --dest ./ --lookup .github/lookupTable.json
+          python .github/wikiversie_parser.py --src "./content/2. Ondersteunende-informatie" --dest "./2. Ondersteunende-informatie" --lookup .github/taxonomie.yaml --dataset .github/dataset.csv 
+
+      - name: Create Pull Request to main
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update wikiversie with changes from Content
+          title: "Update main with changes from Content"
+          body: "This PR includes updates from the Content branch."
+          branch: "Content-to-main-pr"
+          base: "main"
+          delete-branch: true
+          labels: |
+            automated-pr

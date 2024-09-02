@@ -1,0 +1,38 @@
+config:
+  OverslaanX: true
+codes:
+  part-1:
+    - bm-22
+    - rd-7
+    - rv-8
+    - ra-9
+    - rs-10
+    - rv-11
+    - rb-12
+    - to-1
+    - pu-13
+    - oo-15
+    - pa-14
+    - ov-16
+    - oa-17
+    - ii-18
+    - ib-19
+    - ir-20
+    - ib-21
+    - io-28
+    - to-2
+    - to-3
+    - tu-4
+    - te-5
+    - bb-23
+    - bg-24
+    - bb-25
+    - be-26
+    - ta-6
+    - bu-27
+  part-2:
+    - 1
+    - 2
+    - 3
+  part-3:
+    - 

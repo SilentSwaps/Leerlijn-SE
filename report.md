@@ -22,7 +22,7 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 | ii-18 | Inrichten ontwikkelomgeving | X | ❌ | ❌ | ❌ |
 | ib-19 | Bouwen softwaresysteem | X | ❌ | ❌ | ❌ |
 | ir-20 | Refactoren applicatie | X | ❌ | ❌ | ❌ |
-| ib-21 | Beredeneren bouwkeuzes | X | ❌ | ❌ | ❌ |
+| ib-21 | Beredeneren bouwkeuzes | X | ❌ | ✔️ | ✔️ |
 | io-28 | Oplossen fouten | X | ❌ | ❌ | ❌ |
 | to-2 | Opstellen testontwerp | X | ❌ | ❌ | ❌ |
 | to-3 | Opstellen test | X | ❌ | ❌ | ❌ |
@@ -40,13 +40,23 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 
 | Status | File | Path | Taxonomie | Tags | Errors |
 | --- | --- | --- | --- | --- | --- |
+| ✔️ | Code Review | Processen/Implementatieproces/Beredeneren bouwkeuzes/Code Review.md | ib-21.2.SSDLC-code-review<br>ib-21.3.SSDLC-code-review | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Implementatieproces<br>Beredeneren bouwkeuzes | N/A |
 
 
 ## Gefaalde bestanden
 
 | Status | File | Path | Taxonomie | Tags | Errors |
 | --- | --- | --- | --- | --- | --- |
-| ❌ | Keepme | Processen/Implementatieproces/Beredeneren bouwkeuzes/Keepme.md | N/A | N/A | N/A |
+| ❌ | Keepme | Professional-skills/Keepme.md | N/A | N/A | N/A |
+| ❌ | 4. Docker Images | Docker/4. Docker Images.md | N/A | N/A | N/A |
+| ❌ | 2. Docker Desktop | Docker/2. Docker Desktop.md | N/A | N/A | N/A |
+| ❌ | 9. Command parameters | Docker/9. Command parameters.md | N/A | N/A | N/A |
+| ❌ | 5. Docker Containers | Docker/5. Docker Containers.md | N/A | N/A | N/A |
+| ❌ | 8. Docker Environment | Docker/8. Docker Environment.md | N/A | N/A | N/A |
+| ❌ | 6. Docker Compose | Docker/6. Docker Compose.md | N/A | N/A | N/A |
+| ❌ | 3. Dockerfile | Docker/3. Dockerfile.md | N/A | N/A | N/A |
+| ❌ | 7. Docker Volumes | Docker/7. Docker Volumes.md | N/A | N/A | N/A |
+| ❌ | 1. Introductie tot Docker | Docker/1. Introductie tot Docker.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/Implementatieproces/Bouwen softwaresysteem/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/Implementatieproces/Inrichten ontwikkelomgeving/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/Implementatieproces/Refactoren applicatie/Keepme.md | N/A | N/A | N/A |
@@ -74,24 +84,13 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 | ❌ | Keepme | Processen/Beheerproces/Beheren ontwikkelstraat/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/Pakketselectieproces/Uitvoeren analyse/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/Pakketselectieproces/Adviseren onderdeelselectie/Keepme.md | N/A | N/A | N/A |
-| ❌ | 4. Docker Images | Webdev/Security/Docker/4. Docker Images.md | N/A | N/A | N/A |
-| ❌ | 2. Docker Desktop | Webdev/Security/Docker/2. Docker Desktop.md | N/A | N/A | N/A |
-| ❌ | 9. Command parameters | Webdev/Security/Docker/9. Command parameters.md | N/A | N/A | N/A |
-| ❌ | 5. Docker Containers | Webdev/Security/Docker/5. Docker Containers.md | N/A | N/A | N/A |
-| ❌ | 8. Docker Environment | Webdev/Security/Docker/8. Docker Environment.md | N/A | N/A | N/A |
-| ❌ | 6. Docker Compose | Webdev/Security/Docker/6. Docker Compose.md | N/A | N/A | N/A |
-| ❌ | 3. Dockerfile | Webdev/Security/Docker/3. Dockerfile.md | N/A | N/A | N/A |
-| ❌ | 7. Docker Volumes | Webdev/Security/Docker/7. Docker Volumes.md | N/A | N/A | N/A |
-| ❌ | 1. Introductie tot Docker | Webdev/Security/Docker/1. Introductie tot Docker.md | N/A | N/A | N/A |
-| ❌ | 1. Setup Skylab | Webdev/Security/SSDLC/5. Deployment - Deployment op Skylab/1. Setup Skylab.md | N/A | N/A | N/A |
-| ❌ | 1. Wat is een Risk Assessment | Webdev/Security/SSDLC/1. Requirements - Risk Assessment/1. Wat is een Risk Assessment.md | N/A | N/A | N/A |
-| ❌ | 1. SAST | Webdev/Security/SSDLC/3. Development - SAST/1. SAST.md | N/A | N/A | N/A |
-| ❌ | 3. Hoe werkt ZAP | Webdev/Security/SSDLC/4. Testing - Vulnerability Scanning/3. Hoe werkt ZAP.md | N/A | N/A | N/A |
-| ❌ | 4. Aanvallen | Webdev/Security/SSDLC/4. Testing - Vulnerability Scanning/4. Aanvallen.md | N/A | N/A | N/A |
-| ❌ | 1. Wat is ZAP | Webdev/Security/SSDLC/4. Testing - Vulnerability Scanning/1. Wat is ZAP.md | N/A | N/A | N/A |
-| ❌ | 2. Hoe zit ZAP in elkaar | Webdev/Security/SSDLC/4. Testing - Vulnerability Scanning/2. Hoe zit ZAP in elkaar.md | N/A | N/A | N/A |
-| ❌ | 1. Threat Modeling | Webdev/Security/SSDLC/2. Design - Threat Modelling/1. Threat Modeling.md | N/A | N/A | N/A |
-| ❌ | 3. Threat Model naar mitigatie | Webdev/Security/SSDLC/2. Design - Threat Modelling/3. Threat Model naar mitigatie.md | N/A | N/A | N/A |
-| ❌ | 2. Wat is een Threat Model | Webdev/Security/SSDLC/2. Design - Threat Modelling/2. Wat is een Threat Model.md | N/A | N/A | N/A |
-| ❌ | Code Review | Cognitieve-modellen/SSDLC Testing/Code Review.md | N/A | N/A | N/A |
-| ❌ | SOLID-niveau-2 | Cognitieve-modellen/Development/SOLID/SOLID-niveau-2.md | N/A | N/A | N/A |
+| ❌ | 1. Setup Skylab | SSDLC/5. Deployment - Deployment op Skylab/1. Setup Skylab.md | N/A | N/A | N/A |
+| ❌ | 1. Wat is een Risk Assessment | SSDLC/1. Requirements - Risk Assessment/1. Wat is een Risk Assessment.md | N/A | N/A | N/A |
+| ❌ | 1. SAST | SSDLC/3. Development - SAST/1. SAST.md | N/A | N/A | N/A |
+| ❌ | 3. Hoe werkt ZAP | SSDLC/4. Testing - Vulnerability Scanning/3. Hoe werkt ZAP.md | N/A | N/A | N/A |
+| ❌ | 4. Aanvallen | SSDLC/4. Testing - Vulnerability Scanning/4. Aanvallen.md | N/A | N/A | N/A |
+| ❌ | 1. Wat is ZAP | SSDLC/4. Testing - Vulnerability Scanning/1. Wat is ZAP.md | N/A | N/A | N/A |
+| ❌ | 2. Hoe zit ZAP in elkaar | SSDLC/4. Testing - Vulnerability Scanning/2. Hoe zit ZAP in elkaar.md | N/A | N/A | N/A |
+| ❌ | 1. Threat Modeling | SSDLC/2. Design - Threat Modelling/1. Threat Modeling.md | N/A | N/A | N/A |
+| ❌ | 3. Threat Model naar mitigatie | SSDLC/2. Design - Threat Modelling/3. Threat Model naar mitigatie.md | N/A | N/A | N/A |
+| ❌ | 2. Wat is een Threat Model | SSDLC/2. Design - Threat Modelling/2. Wat is een Threat Model.md | N/A | N/A | N/A |

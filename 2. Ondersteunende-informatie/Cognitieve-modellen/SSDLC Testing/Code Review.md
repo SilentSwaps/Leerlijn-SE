@@ -1,8 +1,10 @@
 ---
-title: Ondersteunende informatie SSDLC Testing Code Review
+title: Code Review
+taxonomie: None
 tags:
-  - Code-Review
+
 ---
+
 Code review-standaarden zijn essentieel voor het handhaven van codekwaliteit, consistentie en het garanderen dat de software voldoet aan de vereiste specificaties. Hier is een uitgebreide lijst van veelvoorkomende code review-standaarden:
 
 ### Algemene Principes

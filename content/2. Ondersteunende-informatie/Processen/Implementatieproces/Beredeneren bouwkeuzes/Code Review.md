@@ -1,7 +1,8 @@
 ---
 title: Ondersteunende informatie SSDLC Testing Code Review
-tags:
-  - Code-Review
+taxonomie: 
+   - ib-21.2.SSDLC-code-review
+   - ib-21.3.SSDLC-code-review
 ---
 Code review-standaarden zijn essentieel voor het handhaven van codekwaliteit, consistentie en het garanderen dat de software voldoet aan de vereiste specificaties. Hier is een uitgebreide lijst van veelvoorkomende code review-standaarden:
 

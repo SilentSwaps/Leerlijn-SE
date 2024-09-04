@@ -48,6 +48,7 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 | Status | File | Path | Taxonomie | Tags | Errors |
 | --- | --- | --- | --- | --- | --- |
 | ❌ | Keepme | Professional-skills/Keepme.md | N/A | N/A | N/A |
+<<<<<<< HEAD
 | ❌ | 4. Docker Images | Docker/4. Docker Images.md | N/A | N/A | N/A |
 | ❌ | 2. Docker Desktop | Docker/2. Docker Desktop.md | N/A | N/A | N/A |
 | ❌ | 9. Command parameters | Docker/9. Command parameters.md | N/A | N/A | N/A |
@@ -57,6 +58,17 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 | ❌ | 3. Dockerfile | Docker/3. Dockerfile.md | N/A | N/A | N/A |
 | ❌ | 7. Docker Volumes | Docker/7. Docker Volumes.md | N/A | N/A | N/A |
 | ❌ | 1. Introductie tot Docker | Docker/1. Introductie tot Docker.md | N/A | N/A | N/A |
+=======
+| ❌ | 4. Docker Images | Docker/4. Docker Images.md | None | N/A | N/A |
+| ❌ | 2. Docker Desktop | Docker/2. Docker Desktop.md | None | N/A | N/A |
+| ❌ | 9. Command parameters | Docker/9. Command parameters.md | None | N/A | N/A |
+| ❌ | 5. Docker Containers | Docker/5. Docker Containers.md | None | N/A | N/A |
+| ❌ | 8. Docker Environment | Docker/8. Docker Environment.md | None | N/A | N/A |
+| ❌ | 6. Docker Compose | Docker/6. Docker Compose.md | None | N/A | N/A |
+| ❌ | 3. Dockerfile | Docker/3. Dockerfile.md | None | N/A | N/A |
+| ❌ | 7. Docker Volumes | Docker/7. Docker Volumes.md | None | N/A | N/A |
+| ❌ | 1. Introductie tot Docker | Docker/1. Introductie tot Docker.md | None | N/A | N/A |
+>>>>>>> f6089a05496f2260e83e6275a355aac9fcc2bcf4
 | ❌ | Keepme | Processen/5. Testproces/2. Opstellen testontwerp/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/5. Testproces/1. Opstellen teststrategie/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/5. Testproces/4. Uitvoeren test/Keepme.md | N/A | N/A | N/A |
@@ -84,6 +96,7 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 | ❌ | Keepme | Processen/3. Ontwerpproces/1. Opstellen ontwerp/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/3. Ontwerpproces/3. Adviseren architectuur/Keepme.md | N/A | N/A | N/A |
 | ❌ | Keepme | Processen/3. Ontwerpproces/2. Vaststellen kwaliteit/Keepme.md | N/A | N/A | N/A |
+<<<<<<< HEAD
 | ❌ | 1. Setup Skylab | SSDLC/5. Deployment - Deployment op Skylab/1. Setup Skylab.md | N/A | N/A | N/A |
 | ❌ | 1. Wat is een Risk Assessment | SSDLC/1. Requirements - Risk Assessment/1. Wat is een Risk Assessment.md | N/A | N/A | N/A |
 | ❌ | 1. SAST | SSDLC/3. Development - SAST/1. SAST.md | N/A | N/A | N/A |
@@ -94,3 +107,15 @@ De onderstaande tabel toont de status van de taxonomie mapping.
 | ❌ | 1. Threat Modeling | SSDLC/2. Design - Threat Modelling/1. Threat Modeling.md | N/A | N/A | N/A |
 | ❌ | 3. Threat Model naar mitigatie | SSDLC/2. Design - Threat Modelling/3. Threat Model naar mitigatie.md | N/A | N/A | N/A |
 | ❌ | 2. Wat is een Threat Model | SSDLC/2. Design - Threat Modelling/2. Wat is een Threat Model.md | N/A | N/A | N/A |
+=======
+| ❌ | 1. Setup Skylab | SSDLC/5. Deployment - Deployment op Skylab/1. Setup Skylab.md | None | N/A | N/A |
+| ❌ | 1. Wat is een Risk Assessment | SSDLC/1. Requirements - Risk Assessment/1. Wat is een Risk Assessment.md | None | N/A | N/A |
+| ❌ | 1. SAST | SSDLC/3. Development - SAST/1. SAST.md | None | N/A | N/A |
+| ❌ | 3. Hoe werkt ZAP | SSDLC/4. Testing - Vulnerability Scanning/3. Hoe werkt ZAP.md | None | N/A | N/A |
+| ❌ | 4. Aanvallen | SSDLC/4. Testing - Vulnerability Scanning/4. Aanvallen.md | None | N/A | N/A |
+| ❌ | 1. Wat is ZAP | SSDLC/4. Testing - Vulnerability Scanning/1. Wat is ZAP.md | None | N/A | N/A |
+| ❌ | 2. Hoe zit ZAP in elkaar | SSDLC/4. Testing - Vulnerability Scanning/2. Hoe zit ZAP in elkaar.md | None | N/A | N/A |
+| ❌ | 1. Threat Modeling | SSDLC/2. Design - Threat Modelling/1. Threat Modeling.md | None | N/A | N/A |
+| ❌ | 3. Threat Model naar mitigatie | SSDLC/2. Design - Threat Modelling/3. Threat Model naar mitigatie.md | None | N/A | N/A |
+| ❌ | 2. Wat is een Threat Model | SSDLC/2. Design - Threat Modelling/2. Wat is een Threat Model.md | None | N/A | N/A |
+>>>>>>> f6089a05496f2260e83e6275a355aac9fcc2bcf4
